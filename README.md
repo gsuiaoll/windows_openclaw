@@ -1,0 +1,2 @@
+# windows_openclaw
+windows适配后的openclaw，能在win系统里面直接用openclaw操控，不用下载虚拟机来部署openclaw
